@@ -31,8 +31,8 @@ Step 8: End the program
  ```
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: Monika D
-RegisterNumber:  212223240096
+Developed by: valasareddy pallavi
+RegisterNumber:  212221240059
 */
 ```
 
